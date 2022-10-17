@@ -8,7 +8,7 @@
 - 👋 Nasci em 01/02/2007 e moro em Ibiporã.
 - :sunglasses: Gosto e sou bom com exatas.
 - :nerd_face: Tenho interesse em trabalhar com cálculos, provavelmente farei contabilidade.
-- :100: Estou fazendo vários cursos para aprimorar meus conhecimentos, como: ADM, logistica, excel, excel avançado, aprendiz Bancário,entre outros.
+- :100: Estou fazendo vários cursos para aprimorar meus conhecimentos, como:ADM, logistica, excel, excel avançado, aprendiz Bancário, entre outros.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
