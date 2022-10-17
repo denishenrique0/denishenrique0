@@ -2,8 +2,8 @@
 
 - 👋 Olá, meu nome é **@denishenrique0**
 - :+1: Meu e-mail de contato é lourenco.denis@escola.pr.gov.br
-- 👀 Eu estou interessado em aprender a progamar novas linguagens.
-- 🌱 Eu estou aprendendo a progamar, recentemente, as linguagem de JavaScript e Scratch
+- 👀 Eu estou interessado em aprender a programar novas linguagens.
+- 🌱 Eu estou aprendendo a programar, recentemente, as linguagem de JavaScript e Scratch
 - :+1: Tenho 15 anos.
 - 👋 Nasci em 01/02/2007 e moro em Ibiporã.
 - :sunglasses: Gosto e sou bom com exatas.
